@@ -1,0 +1,14 @@
+C:\Users\dracu\OneDrive\Imagens\Documentos\Projetos em c#\Questões\Questão\Questão\bin\Debug\net8.0\Questão.exe
+C:\Users\dracu\OneDrive\Imagens\Documentos\Projetos em c#\Questões\Questão\Questão\bin\Debug\net8.0\Questão.deps.json
+C:\Users\dracu\OneDrive\Imagens\Documentos\Projetos em c#\Questões\Questão\Questão\bin\Debug\net8.0\Questão.runtimeconfig.json
+C:\Users\dracu\OneDrive\Imagens\Documentos\Projetos em c#\Questões\Questão\Questão\bin\Debug\net8.0\Questão.dll
+C:\Users\dracu\OneDrive\Imagens\Documentos\Projetos em c#\Questões\Questão\Questão\bin\Debug\net8.0\Questão.pdb
+C:\Users\dracu\OneDrive\Imagens\Documentos\Projetos em c#\Questões\Questão\Questão\obj\Debug\net8.0\Questão.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dracu\OneDrive\Imagens\Documentos\Projetos em c#\Questões\Questão\Questão\obj\Debug\net8.0\Questão.AssemblyInfoInputs.cache
+C:\Users\dracu\OneDrive\Imagens\Documentos\Projetos em c#\Questões\Questão\Questão\obj\Debug\net8.0\Questão.AssemblyInfo.cs
+C:\Users\dracu\OneDrive\Imagens\Documentos\Projetos em c#\Questões\Questão\Questão\obj\Debug\net8.0\Questão.csproj.CoreCompileInputs.cache
+C:\Users\dracu\OneDrive\Imagens\Documentos\Projetos em c#\Questões\Questão\Questão\obj\Debug\net8.0\Questão.dll
+C:\Users\dracu\OneDrive\Imagens\Documentos\Projetos em c#\Questões\Questão\Questão\obj\Debug\net8.0\refint\Questão.dll
+C:\Users\dracu\OneDrive\Imagens\Documentos\Projetos em c#\Questões\Questão\Questão\obj\Debug\net8.0\Questão.pdb
+C:\Users\dracu\OneDrive\Imagens\Documentos\Projetos em c#\Questões\Questão\Questão\obj\Debug\net8.0\Questão.genruntimeconfig.cache
+C:\Users\dracu\OneDrive\Imagens\Documentos\Projetos em c#\Questões\Questão\Questão\obj\Debug\net8.0\ref\Questão.dll
